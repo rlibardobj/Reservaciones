@@ -1,0 +1,18 @@
+.servicio-precio, .servicio-detalle {
+	text-align: right;
+}
+.intervalo-tabla-espacio {
+	width: 10em;
+}
+.intervalo-tabla-inicio {
+	width: 14em;
+}
+.intervalo-tabla-fin {
+	width: 6em;
+}
+.servicios th, .servicios td {
+}
+.servicios tr {
+	margin: 0;
+	padding: 0;
+}

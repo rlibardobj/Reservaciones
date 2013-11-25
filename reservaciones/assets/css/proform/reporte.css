@@ -1,0 +1,39 @@
+h2 {
+	padding: 0 3em;
+}
+table {
+	padding: 1em 4em;
+	width: 100%;
+	font-size: 1.1em;	
+	border-spacing: 0;
+}
+
+table tr.titulo td {
+	border-top: 1px solid gray;
+	border-left: 1px solid gray;
+	border-right: 1px solid gray;
+}
+
+table tr.fechas td {
+	padding-bottom: 0.5em;
+}
+
+table tr.fechas td:nth-child(2n+1) {
+	text-align: right;
+}
+
+table td:first-child {
+	border-left: 1px solid gray;
+}
+table td:last-child {
+	border-right: 1px solid gray;	
+}
+
+table td {
+	border: 0px solid white;
+	padding-left: 1em;
+}
+
+table tr:last-child td {
+	border-bottom: 1px solid gray;
+}

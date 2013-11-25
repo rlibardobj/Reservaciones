@@ -1,0 +1,55 @@
+html, body {
+	font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+	font-size: 13px;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+header {
+	margin: 8px;
+}
+header a {
+	color: #000;
+	text-decoration: none;
+}
+header a:visited, header a:hover {
+	color: #000;
+}
+h1 {
+	font-size: 1.6em;
+}
+header {
+	float: left;
+}
+li {
+	list-style-type: none;
+}
+.main-nav {
+	float: right;
+	margin: 8px;
+}
+.main-nav li {
+	display: inline;
+}
+.wrapper {
+	clear: both;
+	height: 100%;
+}
+input, textarea, select {
+	font-family: 'Trebuchet MS', 'Arial', sans-serif;
+	display: block;
+}
+input[type=number] {
+	width: 6em;
+}
+table, table td, table th {
+	border: none;
+}
+a {
+	color: #0F7BEC;
+	text-decoration: none;
+}
+a:hover {
+	color: #FF57B5;
+	text-decoration: none;
+}

@@ -1,0 +1,2 @@
+<h3>Reservaciones CTEC, Tecnológico de Costa Rica Sede San Carlos</h3>
+<p>Seleccione una de las opciones en el menú para crear una nueva actividad, ver las pendientes de confirmar y las confirmadas, o ver un calendario de actividades próximas.</p>

@@ -1,0 +1,21 @@
+.menu-proform {
+	float: left;
+	width: 188px;
+	background-color: #eee;
+	height: 100%;
+	margin-right: 2em;
+}
+
+.menu-proform > nav > ul > li {
+	list-style-type: none;
+	margin-bottom: 0.5em;
+}
+.menu-proform > nav > ul > li > a,
+.menu-proform > nav > ul > li > a:visited {
+	color: #444444;
+	text-decoration: none;
+}
+.menu-proform > nav > ul > li > a:hover {
+	color: #777777;
+	text-decoration: none;
+}
